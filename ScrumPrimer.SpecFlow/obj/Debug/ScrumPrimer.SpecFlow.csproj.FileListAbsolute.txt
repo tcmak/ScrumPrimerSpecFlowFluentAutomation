@@ -1,0 +1,17 @@
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\ScrumPrimer.SpecFlow.dll.config
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\ScrumPrimer.SpecFlow.dll
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\ScrumPrimer.SpecFlow.pdb
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\nunit.framework.dll
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\TechTalk.SpecFlow.dll
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\nunit.framework.xml
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\obj\Debug\ScrumPrimer.SpecFlow.csprojResolveAssemblyReference.cache
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\obj\Debug\ScrumPrimer.SpecFlow.dll
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\obj\Debug\ScrumPrimer.SpecFlow.pdb
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\FluentAutomation.Core.dll
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\FluentAutomation.SeleniumWebDriver.dll
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\Newtonsoft.Json.dll
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\WebDriver.dll
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\WebDriver.Support.dll
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\Newtonsoft.Json.xml
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\WebDriver.xml
+c:\users\steven\documents\visual studio 2013\Projects\ScrumPrimer\ScrumPrimer.SpecFlow\bin\Debug\WebDriver.Support.xml
